@@ -1,0 +1,7 @@
+{ "parts": [
+    { "name": "infopanel"
+    , "hooks": { "eejsBlock_globalSettings": "ep_infopanel/index"
+               }
+    }
+  ]
+}

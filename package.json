@@ -1,0 +1,16 @@
+{
+  "name": "ep_infopanel",
+  "description": "About section for Etherpad-lite installations",
+  "homepage": "https://github.com/Pita/etherpad-lite",
+  "keywords": [
+    "etherpad",
+    "realtime",
+    "collaborative",
+    "editor",
+  ],
+  "author": {
+    "name": "Marcel Klehr",
+    "email": "mklehr@gmx.net"
+  },
+  "version": "1.1.4",
+}
