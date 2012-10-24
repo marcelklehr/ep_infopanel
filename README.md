@@ -5,5 +5,10 @@ This plugin neatly integrates into ep-lites's user interface, displaying some in
 
 More things to come, if people ask for it...
 
+# Install
+
+On the command line, run `npm install ep_infopanel`. Or, browse to `http://yourEtherpadliteInstan.ce/admin/plugins`, search for `ep_infopanel` and click install.
+After restarting the server, the plugin takes effect.
+
 # License
 MIT
