@@ -2,7 +2,7 @@ var eejs = require('ep_etherpad-lite/node/eejs/')
   , path = require('path')
   , fs = require('fs')
   , settings =
-    { githubUrl: 'http://github.com/pita/etherpad-lite/'
+    { githubUrl: 'http://github.com/ether/etherpad-lite/'
     }
   , gitref = ""
 
