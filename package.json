@@ -1,7 +1,7 @@
 {
   "name": "ep_infopanel",
-  "version": "0.1.1",
-  "description": "About section for Etherpad-lite",
+  "version": "0.1.2",
+  "description": "Displays an info section in pad settings exposing the software used and the current git revision.",
   "homepage": "https://github.com/marcelklehr/ep_infopanel",
   "keywords": [
     "etherpad",
